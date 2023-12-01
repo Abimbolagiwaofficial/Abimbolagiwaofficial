@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abimbolagiwaofficial
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently laying my hands on real life projects to work on and improve myself
 - 💞️ I’m looking to collaborate on internships and more projects on SQL, Excel and Power Bi
 - 📫 How to reach me abimbola.giwa@gmail.com
 
